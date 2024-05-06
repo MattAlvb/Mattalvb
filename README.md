@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, mundo! 👋
 
-<!--
-**MattAlvb/Mattalvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou um estudante apaixonado por tecnologia e inovação, com foco em desenvolvimento backend. 💻
 
-Here are some ideas to get you started:
+## Sobre Mim
+- ♨️ Estou aprimorando minhas habilidades em **Spring Boot** e **Java**.
+- 💼 Aspirante a ser um desenvolvedor backend que contribui para soluções escaláveis e de alto desempenho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades Técnicas
+- **Linguagens**: Java (Avançado), SQL (Intermediário), Python (Básico), PHP (Básico)
+- **Frameworks**: Spring Boot, Angular
+- **Ferramentas**: Git
+- **Bancos de Dados**: MySQL, PostgreSQL
+
+## Colaboração
+- 🤝 Aberto a colaborar em projetos.
+- 📫 Você pode me contatar através do meu email.
+
+## Vamos codificar juntos!
+
