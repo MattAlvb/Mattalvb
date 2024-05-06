@@ -16,5 +16,4 @@ Eu sou um estudante apaixonado por tecnologia e inovação, com foco em desenvol
 - 🤝 Aberto a colaborar em projetos.
 - 📫 Você pode me contatar através do meu email.
 
-## Vamos codificar juntos!
-
+### <br> Vamos codificar juntos!
